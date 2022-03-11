@@ -1,4 +1,4 @@
-package com.example.MSAServiceB1;
+package com.example.MSAServiceA;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
