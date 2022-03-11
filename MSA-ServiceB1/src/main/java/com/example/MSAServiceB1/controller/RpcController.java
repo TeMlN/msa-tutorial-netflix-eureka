@@ -1,4 +1,4 @@
-package com.example.MSAClient.controller;
+package com.example.MSAServiceB1.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
