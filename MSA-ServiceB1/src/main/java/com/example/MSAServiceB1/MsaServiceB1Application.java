@@ -9,10 +9,10 @@ import org.springframework.web.client.RestTemplate;
 
 @SpringBootApplication
 @EnableDiscoveryClient
-public class MsaClientApplication {
+public class MsaServiceB1Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MsaClientApplication.class, args);
+		SpringApplication.run(MsaServiceB1Application.class, args);
 	}
 
 	@Bean
