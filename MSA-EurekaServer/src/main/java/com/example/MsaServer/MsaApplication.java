@@ -1,4 +1,4 @@
-package com.example.msa;
+package com.example.MsaServer;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
